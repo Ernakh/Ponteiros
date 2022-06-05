@@ -1,0 +1,15 @@
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\Ponteiros.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\Ponteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\Ponteiros.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\Ponteiros.AssemblyInfo.cs
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\Ponteiros.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\bin\Debug\net6.0\Ponteiros.exe
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\bin\Debug\net6.0\Ponteiros.deps.json
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\bin\Debug\net6.0\Ponteiros.runtimeconfig.json
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\bin\Debug\net6.0\Ponteiros.dll
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\bin\Debug\net6.0\ref\Ponteiros.dll
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\bin\Debug\net6.0\Ponteiros.pdb
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\Ponteiros.dll
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\ref\Ponteiros.dll
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\Ponteiros.pdb
+C:\Users\fabri\source\repos\Ponteiros\Ponteiros\obj\Debug\net6.0\Ponteiros.genruntimeconfig.cache
